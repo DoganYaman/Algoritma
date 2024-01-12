@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Odev\C#-Projeleri\algoritma\bin\Debug\net5.0\algoritma.exe
+D:\PatikaDev\Patika_Odev\C#-Projeleri\algoritma\bin\Debug\net5.0\algoritma.deps.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\algoritma\bin\Debug\net5.0\algoritma.runtimeconfig.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\algoritma\bin\Debug\net5.0\algoritma.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\algoritma\bin\Debug\net5.0\algoritma.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\algoritma\bin\Debug\net5.0\algoritma.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\algoritma\obj\Debug\net5.0\algoritma.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Odev\C#-Projeleri\algoritma\obj\Debug\net5.0\algoritma.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\algoritma\obj\Debug\net5.0\algoritma.AssemblyInfo.cs
+D:\PatikaDev\Patika_Odev\C#-Projeleri\algoritma\obj\Debug\net5.0\algoritma.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\algoritma\obj\Debug\net5.0\algoritma.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\algoritma\obj\Debug\net5.0\refint\algoritma.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\algoritma\obj\Debug\net5.0\algoritma.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\algoritma\obj\Debug\net5.0\algoritma.genruntimeconfig.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\algoritma\obj\Debug\net5.0\ref\algoritma.dll
